@@ -15,5 +15,11 @@ body{
     color:var(--cor-texto-principal);
     font-family: "SN Pro", sans-serif;
 }
-
+.conteudo-pricipal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+        
+}
 
