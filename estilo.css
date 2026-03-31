@@ -37,7 +37,13 @@ body{
 }
 
 .botao{
-    
+    background-color: var(--botão-inativo--);
+    display: flex;
+    justify-content: center;
+    padding: lem;
+    font-size: 18px;
+    align-items: center;
+    width: 100%;
 }
 
 
