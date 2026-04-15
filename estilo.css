@@ -60,8 +60,11 @@ body{
 
 .aba-conteudo.ativo{
     display: block;
-}
-.abas-textos{
+    
+ .aba-conteudo{
+    display: none;
+ }    
+ .abas-textos{
     background-color: var(--cor-de-fundo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
