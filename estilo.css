@@ -83,10 +83,10 @@ text-align: center;
 .botoes{
     display: flex;
  }
-.button :first-child{
+.button:first-child{
     border-radius: 40px 0 0 0;
  }
-    .button :last-child{
+    .button:last-child{
     border-radius: 0 40px 0 0;
  }
 }
