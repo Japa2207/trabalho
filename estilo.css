@@ -64,7 +64,7 @@ body{
  .aba-conteudo{
     display: none;
  }    
- .abas-textos{
+ .abas-texto{
     background-color: var(--botão-inativo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
