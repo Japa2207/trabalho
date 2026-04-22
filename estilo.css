@@ -77,6 +77,12 @@ border-radius: 0 0 40px 40px;
 font: size 20px;
 text-align: center;
 }
+
+.conteudo-secundario{
+    text-align: center;
+    color: var(--cor-texto-secundaria);
+    text-transform: uppercase;
+}
 .contador{
     display: flex;
     justify-content: center;
@@ -85,7 +91,7 @@ text-align: center;
 .contador-digito{
     padding: 0 16px;
     text-align: center;
-    min-width:. 100px;
+    min-width: 100px;
 }
 
 
