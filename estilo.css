@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 
 :root{
-  --cor-de-fundo: #110b4e;
-  --cor-texto-principal: #003049;
-  --cor-texto-secundario: #123d53;
-  --botao-inativo: #A2CB8B;
-  --botao-ativo: #8E977D;
+  --cor-de-fundo: #1F6F5F;
+  --cor-texto-principal: #EEEEEE;
+  --cor-texto-secundario: #EEEEEE;
+  --botao-inativo: #2FA084;
+  --botao-ativo: #6FCF97;
 
 
 }
