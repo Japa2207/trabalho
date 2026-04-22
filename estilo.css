@@ -74,11 +74,11 @@ border-radius: 0 0 40px 40px;
 
 
 .conteudo-titulo-principal{
-font: size 20px;
+font-size: 20px;
 text-align: center;
 }
 
-.conteudo-secundario{
+.conteudo-titulo-secundario{
     text-align: center;
     color: var(--cor-texto-secundaria);
     text-transform: uppercase;
@@ -113,3 +113,5 @@ text-align: center;
 }
 .botao:last-child{
   border-radius: 0 40px 0 0;
+}
+}
