@@ -43,3 +43,7 @@ function calculaTempo( tempoObjetivo){
         return[0,0,0,0]
     }
 }
+
+ function calculaTempoCronometo(){
+    for(let )
+ }
