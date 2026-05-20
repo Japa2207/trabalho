@@ -47,6 +47,8 @@ function calculaTempo( tempoObjetivo){
  function atualizaCronometo(){
     for(let i = 0; i<contadores.length;i++){
         const [dias, horas, minutos, segundos] = calculaTempo
+        const contador = contadores[i]
+        const numeros = contador.querySelectorAll(".contador-digito-numerico")
     }
  }
 
