@@ -44,6 +44,12 @@ function calculaTempo( tempoObjetivo){
     }
 }
 
- function calculaTempoCronometo(){
-    for(let )
+ function atualizaCronometo(){
+    for(let i = 0; i<contadores.length;i++){
+        const [dias, horas, minutos, segundos] = calculaTempo
+    }
  }
+
+
+
+
