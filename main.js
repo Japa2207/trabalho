@@ -49,9 +49,19 @@ function calculaTempo( tempoObjetivo){
         const [dias, horas, minutos, segundos] = calculaTempo
         const contador = contadores[i]
         const numeros = contador.querySelectorAll(".contador-digito-numerico")
+
+        if(numeros.length >=0){
+            numeros[0].textContent = dias
+            numeros[1].textContent = dias
+            numeros[2].textContent = dias
+            numeros[3].textContent = dias
+        }
     }
  }
-
-
+function comecaCronometro(){
+    atualizaCronometo()
+    setInterval(atualizaCronometo, 1000)
+    }
+comecaCronometro()
 
 
